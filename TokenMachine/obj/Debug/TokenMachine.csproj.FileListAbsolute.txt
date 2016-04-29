@@ -1,0 +1,9 @@
+c:\users\jon\documents\visual studio 2015\Projects\TokenMachine\TokenMachine\bin\Debug\TokenMachine.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\TokenMachine\TokenMachine\obj\Debug\TokenMachine.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\TokenMachine\TokenMachine\obj\Debug\TokenMachine.Form1.resources
+c:\users\jon\documents\visual studio 2015\Projects\TokenMachine\TokenMachine\obj\Debug\TokenMachine.Properties.Resources.resources
+c:\users\jon\documents\visual studio 2015\Projects\TokenMachine\TokenMachine\obj\Debug\TokenMachine.csproj.GenerateResource.Cache
+c:\users\jon\documents\visual studio 2015\Projects\TokenMachine\TokenMachine\bin\Debug\TokenMachine.exe
+c:\users\jon\documents\visual studio 2015\Projects\TokenMachine\TokenMachine\bin\Debug\TokenMachine.pdb
+c:\users\jon\documents\visual studio 2015\Projects\TokenMachine\TokenMachine\obj\Debug\TokenMachine.exe
+c:\users\jon\documents\visual studio 2015\Projects\TokenMachine\TokenMachine\obj\Debug\TokenMachine.pdb
